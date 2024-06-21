@@ -1,2 +1,2 @@
 # AppifanySoftware
-freelance website for anyone who needs software solutions no matter how big or small.
+freelance company for anyone who needs software solutions, no matter how big or small.
